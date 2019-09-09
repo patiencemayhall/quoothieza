@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quoofohbu.adesuwau.com/sitemap.xml
